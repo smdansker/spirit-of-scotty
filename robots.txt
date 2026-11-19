@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://spiritofscotty.com/sitemap.xml
